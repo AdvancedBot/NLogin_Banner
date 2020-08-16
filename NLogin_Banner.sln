@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogin_Banner", "NLogin_Banner\NLogin_Banner.csproj", "{8D0AD79F-5DBC-4C28-95F5-880EDC87FFE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D0AD79F-5DBC-4C28-95F5-880EDC87FFE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0AD79F-5DBC-4C28-95F5-880EDC87FFE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0AD79F-5DBC-4C28-95F5-880EDC87FFE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0AD79F-5DBC-4C28-95F5-880EDC87FFE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A13360D0-49D4-46A6-B0DD-734A84B17AC0}
+	EndGlobalSection
+EndGlobal
